@@ -8,6 +8,8 @@ I am a final year Software Engineering Student at Firat University. I'm a front-
 
 * 💬 Talk to me about: Software, Technology and Space or anything that interests you.
 
+* 👨‍💻  Read more about my blogs at "[medium.com/@mustafagozcu](https://medium.com/@mustafagozcu)
+
 
 
 ### 📫Connect with me
