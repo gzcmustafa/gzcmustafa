@@ -24,9 +24,8 @@ I am a final year Software Engineering Student at Firat University. I'm a front-
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 
   
 
