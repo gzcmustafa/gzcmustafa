@@ -6,8 +6,6 @@ I am a final year Software Engineering Student at Firat University. I'm a front-
 
 * 📫 How to reach me: gozcumustafa34@gmail.com
 
-* 💬 Talk to me about: Software, Technology and Space or anything that interests you.
-
 * 👨‍💻  Read more about my blogs at "[medium.com/@mustafagozcu](https://medium.com/@mustafagozcu)
 
 
