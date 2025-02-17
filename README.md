@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm enthusiastic software developer ⚡
+I'm enthusiastic software engineer ⚡
